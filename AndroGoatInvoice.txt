@@ -1,0 +1,4 @@
+This is invoice for product purchased on Aug 12th.
+
+Thanks,
+AndroGoat
